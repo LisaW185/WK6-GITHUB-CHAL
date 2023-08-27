@@ -55,9 +55,6 @@ ul li {
   position: relative;
   left: 20px;
 }
-footer {
-  position: relative;
-  text-align: right;
-  top: 200px;
-  right: 80px;
+.link {
+  text-align: center;
 }
